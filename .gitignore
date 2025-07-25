@@ -1,0 +1,47 @@
+#Byte-compiled Python files
+*.pyc
+*.pyo
+*.pickle
+*.pkl
+__pycache__/
+.venv
+.venv/
+*.yaml
+*/DigiCertGlobalRootCA.crt.pem
+#Ignore logs and temporary files
+*.log
+*.out
+*.tmp
+*.swp
+*.swo
+*.cache
+*.pytest_cache/
+
+#Coverage reports
+.coverage
+htmlcov/
+
+#PyCharm project files
+.idea/
+.idea
+
+#Environment variables
+.env
+
+#Ignore system files
+.DS_Store
+Thumbs.db
+
+#Ignore Selenium WebDriver downloaded files
+webdriver-manager/
+
+#Ignore Jupyter extensions and settings
+.jupyter/
+.jupyterlab/
+.jupyterlab-workspaces/
+.ipynb_checkpoints/
+
+#Distribution and build directories
+dist/
+build/
+*.egg-info/
