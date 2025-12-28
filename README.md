@@ -81,7 +81,7 @@ Clean the scraped data and insert it into a table within your SQLite database. U
 
 ## Part 4: Product Reference Matching (Kaggle Competition)
 
-Use any SOTA algorithms to match each offer to its corresponding official reference. You can either find the data in folder `Data_2025` or download it from https://www.kaggle.com/competitions/entity-matching/overview.
+Use any SOTA algorithms to match each offer to its corresponding official reference. You can either find the data in folder `Data_2025`.
 Submit your folder containing all the code and data in a ZIP format by email.
-Submit your final matching file to the Kaggle Competition Page for evaluation.
+
 
